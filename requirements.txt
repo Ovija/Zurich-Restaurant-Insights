@@ -1,0 +1,9 @@
+Python (>= 3.7)
+Jupyter Notebook
+MongoDB
+
+Libraries:
+*  pandas
+*  numpy
+*  matplotlib
+*  pymongo
