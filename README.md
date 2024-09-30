@@ -6,12 +6,11 @@ This project was developed as part of a NoSQL module using MongoDB. The aim is t
 ## Dataset
 
 The dataset used in this project contains information about 515 restaurants in Zurich and was obtained from the Zurich Open Data Platform. The dataset includes fields such as:
-
 *  Address
-    Category
-    Geo-coordinates
-    Description
-    Copyright holder
+*    Category
+*    Geo-coordinates
+*    Description
+*    Copyright holder
 
 ## ELT (Extract, Load, Transform) Process
 
